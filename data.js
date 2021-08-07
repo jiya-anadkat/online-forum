@@ -16,11 +16,6 @@ var defaultThreads = [
                 date: Date.now(),
                 content: "Pfizer",
             },
-            {
-                author: "Anonymous Whale",
-                date: Date.now(),
-                content: "I got vaccinated today",
-            }
         ]
     },
     {
